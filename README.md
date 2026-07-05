@@ -43,7 +43,7 @@ A Machine Learning web application that predicts laptop prices based on laptop s
 
 ## 📷 Application Preview
 
-> Add screenshots here
+
 
 ![Home](<img width="1470" height="956" alt="Screenshot 2026-07-04 at 10 42 49 PM" src="https://github.com/user-attachments/assets/a8d1c81f-b630-4c53-8183-f6d87891f493" />
 )
