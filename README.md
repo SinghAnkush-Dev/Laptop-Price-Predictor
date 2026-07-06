@@ -30,7 +30,7 @@ A Machine Learning web application that predicts laptop prices based on laptop s
 - Matplotlib
 - Plotly
 
-----
+---
 
 ## 📈 Model Performance
 
